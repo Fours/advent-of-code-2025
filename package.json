@@ -5,7 +5,7 @@
   "type": "module",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/day1/index.js"
+    "start": "node src/day2/part1.js"
   },
   "author": "Kyle Willett",
   "license": "ISC",
